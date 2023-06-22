@@ -10,6 +10,10 @@ In this project you will build such a pipeline.
 
 https://wandb.ai/crbev/nyc_airbnb
 
+## Github Link
+
+https://github.com/crbeveridge1065/build-ml-pipeline-for-short-term-rental-prices/tree/main
+
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
