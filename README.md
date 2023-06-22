@@ -8,6 +8,8 @@ In this project you will build such a pipeline.
 
 ## Weights and Biases Project Link
 
+https://wandb.ai/crbev/nyc_airbnb
+
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
